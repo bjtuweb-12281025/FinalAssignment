@@ -1,6 +1,12 @@
-<!DOCTYPE>
+
 <html>
-<head>	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<head>	 
+ <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus?">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+
 
 	<title>用户注册	</title> 
 	</head>
